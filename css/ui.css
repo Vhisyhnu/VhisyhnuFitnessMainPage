@@ -1,0 +1,1 @@
+.flex{display:flex}.grid{display:grid}.gap-1{gap:.25rem}.gap-2{gap:.5rem}.gap-3{gap:.75rem}.gap-4{gap:1rem}.hidden{display:none!important}.text-muted{color:var(--color-muted)}.rounded{border-radius:var(--radius)}.shadow{box-shadow:var(--shadow)}.max-w{max-width:var(--container)}
